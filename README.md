@@ -33,4 +33,4 @@ go get -u github.com/tknzk/ehproxy
 
 # Author
 
-tknzk <tkkm.knzk@gmail.com>
+tknzk <tkm.knzk@gmail.com>
