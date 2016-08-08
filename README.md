@@ -28,7 +28,7 @@ go get -u github.com/tknzk/ehproxy
 
 # License
 
-link:./LICENSE[The MIT License].
+[The MIT License](./LICENSE).
 
 
 # Author
