@@ -26,7 +26,7 @@ func main() {
 	port := flag.String("port", defaultPort, defaultPortUsage)
 	host := flag.String("host", defaultHost, defaultHostUsage)
 	extendheaders := flag.String("extend-headers", defaultExtendHeaders, defaultExtendHeadersUsage)
-	verbose := flag.Bool("verbos", defaultVerbose, defaultVerboseUsage)
+	verbose := flag.Bool("verbose", defaultVerbose, defaultVerboseUsage)
 
 	flag.Parse()
 
