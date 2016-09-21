@@ -26,6 +26,9 @@ Usage of ehproxy:
 go get -u github.com/tknzk/ehproxy
 ```
 
+Built binaries are available on gihub releases.
+(https://github.com/tknzk/ehproxy/releases)
+
 # License
 
 [The MIT License](./LICENSE).
