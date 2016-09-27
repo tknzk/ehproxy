@@ -20,7 +20,7 @@ Usage of ehproxy:
     default verbose, 'false'
 ```
 
-# Instrallation
+# Installing ehproxy
 
 ```
 go get -u github.com/tknzk/ehproxy
