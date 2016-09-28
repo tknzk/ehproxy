@@ -4,7 +4,7 @@ set -e
 DIR=$(cd $(dirname ${0})/.. && pwd)
 cd ${DIR}
 
-VERSION="v0.0.1"
+VERSION="v0.0.2"
 REPO="ehproxy"
 
 # Run Compile
